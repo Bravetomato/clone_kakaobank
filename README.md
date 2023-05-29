@@ -1,8 +1,6 @@
-# clone_kakaobank
+# clone_kakaobank : https://Bravetomato.github.io/clone_kakaobank
 
-## 작업 과정 기록
-
-## https://codepen.io/bravetomato-the-looper/pen/jOpbLaZ?editors=1010
+## 작업 과정 : https://codepen.io/bravetomato-the-looper/pen/jOpbLaZ?editors=1010
 
 ## html, css, javsScript, JQuery 사용
 
